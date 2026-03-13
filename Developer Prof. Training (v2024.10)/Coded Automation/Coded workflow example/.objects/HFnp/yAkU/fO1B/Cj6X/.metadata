@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Apply For Loan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "Cj6XpUS5PEehiVSmr7U-KQ",
+  "Reference": "lFtPYlJpW02_XJipta_B6g/Cj6XpUS5PEehiVSmr7U-KQ",
+  "ParentRef": "lFtPYlJpW02_XJipta_B6g/fO1BriDal0etlLrlFWu3IA",
+  "Created": "2025-08-19T03:22:48.5286911Z",
+  "Updated": "2025-08-19T03:23:23.3281646Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

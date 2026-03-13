@@ -1,0 +1,15 @@
+﻿{
+  "Name": "LoanStatusScreen",
+  "Type": "Screen",
+  "Id": "nvt-buVH6EWsRp3rHPFxxw",
+  "Reference": "lFtPYlJpW02_XJipta_B6g/nvt-buVH6EWsRp3rHPFxxw",
+  "ParentRef": "lFtPYlJpW02_XJipta_B6g/yAkU5nVP0EO7bDJfhxo1NQ",
+  "Created": "2025-08-19T03:31:26.2570455Z",
+  "Updated": "2025-08-19T03:31:32.357854Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

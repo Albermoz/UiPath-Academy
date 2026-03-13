@@ -1,0 +1,13 @@
+﻿{
+  "Name": "APR",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ckXuZZNlaUm7sY4eBuQ4-A",
+  "Reference": "lFtPYlJpW02_XJipta_B6g/ckXuZZNlaUm7sY4eBuQ4-A",
+  "ParentRef": "lFtPYlJpW02_XJipta_B6g/nvt-buVH6EWsRp3rHPFxxw",
+  "Created": "2025-08-19T03:33:17.2457492Z",
+  "Updated": "2025-08-19T03:33:17.2457492Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

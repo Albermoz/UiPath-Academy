@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "RemainingCycles&State_8",
+        "StrPauseTimeSeconds&StateMachine_1",
+        "DblPauseTime&StateMachine_1",
+        "StrDesiredTemperature&StateMachine_1",
+        "Idle&StateMachine_1",
+        "StrCurrentTemperature&StateMachine_1",
+        "TurnOFF&StateMachine_1",
+        "DblCurrentTemperature&StateMachine_1",
+        "DblDesiredTemperature&StateMachine_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

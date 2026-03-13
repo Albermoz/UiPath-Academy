@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RXjXYPPUEUSkGxPRIPZnBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="ed49d418-82b7-4b37-879e-b283dc21b028" CvTextArea="467, 647, 153, 24" CvTextArgument="Apply For Loan" CvType="Text" DesignTimeRectangle="448, 631, 218, 52" DesignTimeScaleFactor="1.2000000476837158" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Apply For Loan →' tag='BUTTON' type='submit' class='btn apply-button' check:innerText='Apply For Loan →' /&gt;" Guid="97295356-0888-426d-b3c9-aad020e73909" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="625, 643, 21, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='→' type='' tag='SPAN' class='' check:innerText='→' /&gt;" Guid="c8717bd1-52c2-4242-8c34-9873034f401f" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="38446f918e294d10c098b1c4cc811ca5.png" xmlns="">034Rbb9znt0awnrPwPZv8Zw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

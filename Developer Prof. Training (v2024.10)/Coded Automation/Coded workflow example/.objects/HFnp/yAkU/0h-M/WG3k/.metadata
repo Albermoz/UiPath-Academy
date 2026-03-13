@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Age",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "WG3kNXJoPkWsyTgenIJ3Yw",
+  "Reference": "lFtPYlJpW02_XJipta_B6g/WG3kNXJoPkWsyTgenIJ3Yw",
+  "ParentRef": "lFtPYlJpW02_XJipta_B6g/0h-MxVjZbUudWqsiKBy0dg",
+  "Created": "2025-08-19T03:28:57.3638581Z",
+  "Updated": "2025-08-19T03:28:57.3638581Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

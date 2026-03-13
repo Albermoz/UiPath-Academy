@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Loan Approved Label",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "msWbVa9TYUOuWlPtUAK5DA",
+  "Reference": "lFtPYlJpW02_XJipta_B6g/msWbVa9TYUOuWlPtUAK5DA",
+  "ParentRef": "lFtPYlJpW02_XJipta_B6g/nvt-buVH6EWsRp3rHPFxxw",
+  "Created": "2025-08-19T03:33:17.0408972Z",
+  "Updated": "2025-08-19T03:33:17.0408972Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

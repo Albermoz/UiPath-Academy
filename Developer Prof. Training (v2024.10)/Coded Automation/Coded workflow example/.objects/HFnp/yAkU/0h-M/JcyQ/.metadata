@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Loan Term",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "JcyQ2JMgLUCgq9SdF3eymg",
+  "Reference": "lFtPYlJpW02_XJipta_B6g/JcyQ2JMgLUCgq9SdF3eymg",
+  "ParentRef": "lFtPYlJpW02_XJipta_B6g/0h-MxVjZbUudWqsiKBy0dg",
+  "Created": "2025-08-19T03:28:56.9729773Z",
+  "Updated": "2025-08-19T03:28:56.9729773Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

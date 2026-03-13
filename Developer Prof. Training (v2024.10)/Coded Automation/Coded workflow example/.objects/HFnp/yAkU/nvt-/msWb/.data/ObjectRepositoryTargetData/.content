@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nIls2SdLpESA0xgUV1kG5w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/loans/result/68a3efb5fb77b5004a8aa1f6/6/true" CVScreenId="eddc435e-ff5c-407b-bbe8-aca60d4949c3" CvTextArea="410, 485, 1094, 45" CvType="AnyWordGroup" DesignTimeRectangle="377, 480, 1165, 58" DesignTimeScaleFactor="1.2000000476837158" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H1' class='text-center text-white' /&gt;" Guid="9a4497e0-d8ba-4e62-9922-070ceb03b816" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Loan result' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e903b1404093549bc77487e81c8beb2f.png" xmlns="">0yWz25j5b0EW1EEpZVwmDDA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
